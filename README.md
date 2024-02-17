@@ -1,5 +1,5 @@
 [![Twitter: nasio777](https://img.shields.io/twitter/follow/nasio777?style=social)](https://twitter.com/nasio777)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kingkazuma7&left_color=gray&right_color=blue)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kingkazuma7&left_color=gray&right_color=blue) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingkazuma7&theme=vue)
 
